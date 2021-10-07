@@ -22,4 +22,12 @@
 <img align="left" height="20%" width="20%" src="https://emoji.gg/assets/emoji/2557-pogfish-remastered.png">
 <img align="right" width="30%" src="https://github-readme-stats.vercel.app/api?username=PentBeear&count_private=true&show_icons=true&theme=react"/>
 
+
+
+
+
+
+
+
+
 [^1]: [Cool Guy](https://github.com/yo-ru)

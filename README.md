@@ -21,10 +21,6 @@
 ### Fancy "Achievements"
 <img align="left" height="15%" width="15%" src="https://emoji.gg/assets/emoji/2557-pogfish-remastered.png">
 <img align="right" width="30%" src="https://github-readme-stats.vercel.app/api?username=PentBeear&count_private=true&show_icons=true&theme=react"/>
-ㅤ
-ㅤ
-ㅤ
-ㅤ
-ㅤ
-ㅤ
+
+###### Footers?ㅤ
 [^1]: [Cool Guy](https://github.com/yo-ru)

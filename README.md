@@ -19,7 +19,7 @@
   - [x] Link one of my friends in a footnote[^1]
 
 ### Fancy "Achievements"
-<img align="left" width="40%" height"50%" src="https://emoji.gg/assets/emoji/2557-pogfish-remastered.png">
+<img align="left" width="40%" src="https://emoji.gg/assets/emoji/2557-pogfish-remastered.png">
 <img align="right" width="30%" src="https://github-readme-stats.vercel.app/api?username=PentBeear&count_private=true&show_icons=true&theme=react"/>
 
 [^1]: [Cool Guy](https://github.com/yo-ru)

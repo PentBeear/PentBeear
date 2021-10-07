@@ -20,7 +20,7 @@
 
 ### Fancy "Achievements"
 <img align="left" height="15%" width="15%" src="https://emoji.gg/assets/emoji/2557-pogfish-remastered.png">
-<img align="left" width="30%" src="https://github-readme-stats.vercel.app/api?username=PentBeear&count_private=true&show_icons=true&theme=tokyonight&bg_color=45,BLUE,BLACK,GRAY"/>
+<img align="left" width="30%" src="https://github-readme-stats.vercel.app/api?username=PentBeear&custom_title=My%20Stats&title_color=999999&hide_border=true&text_color=666666&icon_color=4455BB&count_private=true&show_icons=true&theme=dark&bg_color=55,2233AA,000000"/>
 
 ###### Footers?ㅤ
 [^1]: [Cool Guy](https://github.com/yo-ru)

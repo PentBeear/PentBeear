@@ -16,7 +16,7 @@
 ### Current projects
   - [x] Design a CPU 
   - [x] College
-  - [] Invest into a Roth IRA 
+  - Invest into a Roth IRA 
 
 ### Completed projects
   - [x] Design a decent 3D Printer 

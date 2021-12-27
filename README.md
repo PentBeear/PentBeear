@@ -14,9 +14,15 @@
   - Survive climate change.
   
 ### Current projects
-  - [ ] Design a decent 3D Printer 
-  - [x] Start a HomeLab (See you on r/homelab!)
+  - [x] Design a CPU 
+  - [x] College
+  - [] Invest into a Roth IRA 
+
+### Completed projects
+  - [x] Design a decent 3D Printer 
+  - [x] Start a HomeLab
   - [x] Link one of my friends in a footnote[^1]
+
 
 ### Fancy "Achievements"
 <img align="left" height="15%" width="15%" src="https://emoji.gg/assets/emoji/2557-pogfish-remastered.png">

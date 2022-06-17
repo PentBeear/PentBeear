@@ -1,14 +1,14 @@
 ## Hello :)
 
 ### About Me
-  - I'm a generic high school student who wants to make things.
+  - I'm a generic college student who wants to make things.
   - 3D Printer's are my favorite hobby.
-  - Fabric is better than Forge.
+  - Quilt is better than Fabric.
 
 ### What I Do
-  - I make apps or firmware for microcontrollers usually (Think home automation backends and such).
-  - I don't post on my public Github frequently most of my repos are private. 
-
+  - I make firmware for microcontrollers and more recently have started playing with the Quilt API for Minecraft.
+  - A majority of my repo's are private although some that i think others may find useful are public.
+  
 ### My Future Plans
   - Go to college without being in horrible debt.
   - Survive climate change.
@@ -16,7 +16,7 @@
 ### Current projects
   - [x] Design a CPU 
   - [x] College
-  - Invest into a Roth IRA 
+  - [x] Invest into a Roth IRA 
 
 ### Completed projects
   - [x] Design a decent 3D Printer 
